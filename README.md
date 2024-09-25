@@ -1,4 +1,4 @@
-# CaKaA Talk
+# CaKaATalk
 
 ![로고](./images/로고.png)
 
